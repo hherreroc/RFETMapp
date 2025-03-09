@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "370428219018",
+    "firebase_url": "https://rfetm-database-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rfetm-database",
+    "storage_bucket": "rfetm-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370428219018:android:3ddc410c0cd53a7a42e773",
+        "android_client_info": {
+          "package_name": "es.proyecto.androidmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5GDOXPqdrGvQJR4TUqE-y4013vl7SH1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

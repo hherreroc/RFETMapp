@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/rankingFragment"
+        android:title="Ranking"
+        android:icon="@drawable/ic_ranking"/>
+    <item
+        android:id="@+id/mainFragment"
+        android:title="Inicio"
+        android:icon="@drawable/home_icon"/>
+    <item
+    android:id="@+id/introducirFragment"
+    android:title="Introducir resultado"
+    android:icon="@drawable/ic_upload"/>
+
+</menu>
